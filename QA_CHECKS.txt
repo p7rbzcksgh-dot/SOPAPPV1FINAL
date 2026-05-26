@@ -1,0 +1,9 @@
+TCG SOP Wizard Clean 18 QA
+- ZIP is flat: upload all files directly to GitHub root.
+- Dashboard button position is locked closer to the provided screenshot reference.
+- Dashboard keeps 3 centered buttons: Create A New SOP, Required SOPs, Urgent Process Change.
+- Required SOPs Add Required SOP button now sits below the entered request card/list, not at the top.
+- Urgent Process Change Add Urgent Change button now sits below the entered request card/list, not at the top.
+- Any newly added Required/Urgent card appears above the add button so the add button remains at the bottom of the entered fields.
+- Create SOP page still has Main Assembly dropdown: SBX, CNV, CHS, OTHER.
+- Create SOP steps remain unlimited and support multiple photos per step.
